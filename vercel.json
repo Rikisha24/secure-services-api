@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/services.py": {
-      "runtime": "python@3.9"
-    }
-  }
-}
